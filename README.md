@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Susanna!
 
 Welcome to my GitHub profile! Here, you'll find a collection of projects I've been working on and contributing to. I'm passionate about "Machine Learning" and "Web Development" and always eager to collaborate on innovative projects.
 
