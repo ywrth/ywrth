@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**ywrth/ywrth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm [Your Name]!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here, you'll find a collection of projects I've been working on and contributing to. I'm passionate about "Machine Learning" and "Web Development" and always eager to collaborate on innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Technologies & Tools**:
+
+- **Languages**: HTML, CSS, JavaScript, Python
+- **Frameworks**: React, Node.js
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Tools**: Atom, GitHub, VSCODE, CodePen
+
+🔍 **Current Projects**:
+
+- [HotPotatoes](https://github.com/ywrth/hotpotatoes-client) - A movie discovery app built with React and Express.js.
+
+💼 **Professional**:
+
+- Currently learning Full-stack Development in CareerFoundry 
+- Looking for collaboration opportunities!
+  
+📬 **Get in Touch**:
+
+- Portfolio: [https://ywrth.github.io/myportfolio](https://ywrth.github.io/myportfolio/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/zubanach/)
+- Email: zuatworknow@gmail.com
+
+⭐ **Fun Fact**: I once did a 12-hour non-stop gaming marathon and emerged victorious in 90% of the matches I played!
+
+---
+
