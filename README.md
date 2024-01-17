@@ -20,9 +20,9 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects I've be
   
 📬 **Get in Touch**:
 
-- Portfolio: [https://ywrth.github.io/myportfolio](https://ywrth.github.io/myportfolio/)
+- Portfolio: [https://ywrth.github.io/myportfolio](https://zuzanna-banach.online)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/zubanach/)
-- Email: zuatworknow@gmail.com
+- Email: mail@zuzanna-banach.online
 
 ⭐ **Fun Fact**: I once did a 12-hour non-stop gaming marathon and emerged victorious in 90% of the matches I played!
 
